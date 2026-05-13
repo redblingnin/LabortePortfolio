@@ -75,7 +75,8 @@ body {
 }
 
 .nav-links a:hover{
-    color: black;
+    color: silver;
+    -webkit-text-stroke: 2.5px silver;
 }
 
 .hero {
